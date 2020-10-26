@@ -1,5 +1,10 @@
 # Aliens-R-Real: JavaScript and DOM Manipulation Homework
 
+## Output
+
+Homework can be found at: https://derrikdennis.github.io/javascript-challenge
+
+
 ## Background
 
 WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
@@ -12,7 +17,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 ## Your Task
 
-### Level 1: Automatic Table and Date Search (Required)
+### Level 1: Automatic Table and Date Search
 
 * Create a basic HTML web page or use the [index.html](StarterCode/index.html) file provided (we recommend building your own custom page!).
 
@@ -22,9 +27,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
-### Level 2: Multiple Search Categories (Optional)
-
-* Complete all of Level 1 criteria.
+### Level 2: Multiple Search Categories
 
 * Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
 
