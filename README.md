@@ -1,8 +1,16 @@
 # Aliens-R-Real: JavaScript and DOM Manipulation Homework
 
+- [Aliens-R-Real: JavaScript and DOM Manipulation Homework](#aliens-r-real-javascript-and-dom-manipulation-homework)
+  - [Output](#output)
+  - [Background](#background)
+  - [Your Task](#your-task)
+    - [Level 1: Automatic Table and Date Search](#level-1-automatic-table-and-date-search)
+    - [Level 2: Multiple Search Categories](#level-2-multiple-search-categories)
+  - [Results](#results)
+
 ## Output
 
-Homework can be found at: https://derrikdennis.github.io/javascript-challenge
+Homework can be found at my [JavaScript Challenge](https://derrikdennis.github.io/javascript-challenge) webpage.
 
 ## Background
 
@@ -35,3 +43,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
   3. `state`
   4. `country`
   5. `shape`
+
+## Results
+
+Results can be found at: <https://derrikdennis.github.io/javascript-challenge>
