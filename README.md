@@ -19,11 +19,9 @@ In this exercise, I am working for `ALIENS-R-REAL`, a non-profit dedicated to ge
 
 There's a bit of a problem: the collection of data is too large to search through manually.  It needs to be put into a table that can be searched through.
 
-There is just one tiny problem though... our collection is too large to search through manually. Even our most dedicated followers are complaining that they are having trouble locating specific reports in this mess.
+The assignment for this week is to write code that is based on a [dataset](/static/js/data.js).  There needs to be a filter for specific values.  
 
-That's why we are hiring you. We need you to write code that will create a table dynamically based upon a [dataset we provide](/static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
-
-You can handle this... right? The planet Earth needs to know what we have found!
+There's a catch though - it can only be done using d3.js, JavaScript, CSS and HTML.  The instructions of what to do are found below.
 
 ## Your Task
 
