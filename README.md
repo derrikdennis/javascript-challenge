@@ -1,12 +1,13 @@
-# Aliens-R-Real: JavaScript and DOM Manipulation Homework
+# Aliens-R-Real: JavaScript and DOM Manipulation Homework <!-- omit in toc -->
 
-- [Aliens-R-Real: JavaScript and DOM Manipulation Homework](#aliens-r-real-javascript-and-dom-manipulation-homework)
-  - [Output](#output)
-  - [Background](#background)
-  - [Your Task](#your-task)
-    - [Level 1: Automatic Table and Date Search](#level-1-automatic-table-and-date-search)
-    - [Level 2: Multiple Search Categories](#level-2-multiple-search-categories)
-  - [Results](#results)
+## Table of Contents <!-- omit in toc -->
+
+- [Output](#output)
+- [Background](#background)
+- [Your Task](#your-task)
+  - [Level 1: Automatic Table and Date Search](#level-1-automatic-table-and-date-search)
+  - [Level 2: Multiple Search Categories](#level-2-multiple-search-categories)
+- [Results](#results)
 
 ## Output
 
