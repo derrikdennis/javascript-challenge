@@ -1,4 +1,4 @@
-# JavaScript Homework - JavaScript and DOM Manipulation
+# Aliens-R-Real: JavaScript and DOM Manipulation Homework
 
 ## Background
 
