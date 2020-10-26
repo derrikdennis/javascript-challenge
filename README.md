@@ -2,16 +2,11 @@
 
 ## Table of Contents <!-- omit in toc -->
 
-- [Output](#output)
 - [Background](#background)
 - [Your Task](#your-task)
   - [Level 1: Automatic Table and Date Search](#level-1-automatic-table-and-date-search)
   - [Level 2: Multiple Search Categories](#level-2-multiple-search-categories)
 - [Results](#results)
-
-## Output
-
-Homework can be found at my [JavaScript Challenge](https://derrikdennis.github.io/javascript-challenge) webpage.
 
 ## Background
 
@@ -27,7 +22,7 @@ There's a catch though - it can only be done using d3.js, JavaScript, CSS and HT
 
 ### Level 1: Automatic Table and Date Search
 
-* HTML and CSS pages were provided.  I was allowed to create my own page, but chose to focus on the JavaScript and DOM manipulation for the assignment.
+* [HTML](index.html) and [CSS](static/css/style.css) pages were provided.  I was allowed to create my own page, but chose to focus on the JavaScript and DOM manipulation for the assignment.
 
 * Using the dataset provided, I wrote code that appended information to a table based on the the information used to filter.
   
@@ -47,4 +42,5 @@ There's a catch though - it can only be done using d3.js, JavaScript, CSS and HT
 
 ## Results
 
-Results can be found at: <https://derrikdennis.github.io/javascript-challenge>
+
+Homework can be found at my [JavaScript Challenge](https://derrikdennis.github.io/javascript-challenge) webpage.
