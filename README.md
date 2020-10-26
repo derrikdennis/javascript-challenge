@@ -18,6 +18,7 @@ The assignment for this week is to write code that is based on a [dataset](/stat
 
 There's a catch though - it can only be done using d3.js, JavaScript, CSS and HTML.  The instructions of what to do are found below.
 
+
 ## Your Task
 
 ### Level 1: Automatic Table and Date Search
@@ -32,7 +33,7 @@ There's a catch though - it can only be done using d3.js, JavaScript, CSS and HT
   
 ### Level 2: Multiple Search Categories
 
-* Using multiple `input` tags and/or select dropdowns, write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
+* I used multiple `input` tags in order for the user to set multiple filters and search for UFO sightings based on the following criteria:ghtings using the following criteria based on the table columns:
 
   1. `date/time`
   2. `city`
@@ -40,7 +41,7 @@ There's a catch though - it can only be done using d3.js, JavaScript, CSS and HT
   4. `country`
   5. `shape`
 
-## Results
 
+## Results
 
 Homework can be found at my [JavaScript Challenge](https://derrikdennis.github.io/javascript-challenge) webpage.
