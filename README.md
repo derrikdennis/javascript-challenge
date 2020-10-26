@@ -27,11 +27,11 @@ There's a catch though - it can only be done using d3.js, JavaScript, CSS and HT
 
 ### Level 1: Automatic Table and Date Search
 
-* A basic HTML page was provided.  This was the form that I used for this assignment.
+* HTML and CSS pages were provided.  I was allowed to create my own page, but chose to focus on the JavaScript and DOM manipulation for the assignment.
 
-* Using the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
-
-  * Make sure you have a column for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
+* Using the dataset provided, I wrote code that appended information to a table based on the the information used to filer.
+  
+  * This table had columns for `date/time`, `city`, `state`, `country`, `shape`, and `comment` at the very least.
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
