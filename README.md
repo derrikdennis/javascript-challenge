@@ -15,7 +15,9 @@ Homework can be found at my [JavaScript Challenge](https://derrikdennis.github.i
 
 ## Background
 
-WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
+In this exercise, I am working for `ALIENS-R-REAL`, a non-profit dedicated to getting the truth out there based on information collected from eye-witness reports.
+
+There's a bit of a problem: the collection of data is too large to search through manually.  It needs to be put into a table that can be searched through.
 
 There is just one tiny problem though... our collection is too large to search through manually. Even our most dedicated followers are complaining that they are having trouble locating specific reports in this mess.
 
