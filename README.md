@@ -1,4 +1,4 @@
-# Aliens-R-Real: JavaScript and DOM Manipulation Homework <!-- omit in toc -->
+# Aliens-R-Real: JavaScript Challenge <!-- omit in toc -->
 
 ## Table of Contents <!-- omit in toc -->
 
